@@ -31,10 +31,9 @@ This repository provides **four implementations**:
 | **NN-DDMPC** | Neural Network-based Data-Driven MPC |
 
 ---
-
 ## 📁 Repository Structure
 
-```text
+<pre>
 data_driven_mpc/
 │
 ├── README.md
@@ -61,30 +60,26 @@ data_driven_mpc/
     ├── theoretical_foundations.pdf
     ├── simulation_study_ddmpc.pdf
     └── simulation_results_ddmpc_comparison.pdf
-  
+</pre>
 
 ---
-
 
 ## ▶️ Getting Started
 
-### 1. Clone the repository
+1. Clone the repository
 
-```bash
 git clone https://github.com/yourusername/data_driven_mpc.git
+
 cd data_driven_mpc
 
-How to run:
+2. run
+
 addpath(genpath(pwd));
+
 tests/test1
 
-
-
 ---
 
-### 🧠 Methods + Study + Notes + Author**
-```markdown
----
 
 ## 🧠 Methodological Details
 
