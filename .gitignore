@@ -1,0 +1,33 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+*.mat
+*.fig
+
+# Simulink
+*.slxc
+*.autosave
+*.mdl.r201*
+*.slx.r201*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python (if mixed)
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Output folders
+results/
